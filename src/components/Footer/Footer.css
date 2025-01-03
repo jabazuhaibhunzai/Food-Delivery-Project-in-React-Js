@@ -10,7 +10,8 @@
     margin-top: 100px;
 }
 #footer-logo{
-    width: 45%;
+   width: 60px;
+   border-radius: 10px;
 }
 .footer p{
     font-size: 13px;

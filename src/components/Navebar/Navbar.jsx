@@ -23,7 +23,7 @@ const Navbar = ({setShowLogin}) => {
           onClick={() => setMenu("menu")}
           className={menu === "menu" ? "active" : ""}
         >
-          Menu
+          Categary
         </a>
         <a
           href="#app-download"

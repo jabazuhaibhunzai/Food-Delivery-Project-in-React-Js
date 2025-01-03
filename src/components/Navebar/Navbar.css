@@ -1,19 +1,19 @@
 .navbar{
-    padding: 20px 0px;
+    padding-top: 15px;
     display: flex;
     justify-content:space-between;
     align-items: center ;
  
 }
-.navbar.logo{
-    width: 150px;
+.logo{
+    width: 60px;
 }
 .navbar-menu{
     display: flex;
     list-style: none;
     gap: 20px;
     color: #49557e;
-    font-size: 18px;
+    font-size: 20px;
     cursor: pointer;
 }
 .navbar-right{
@@ -115,7 +115,7 @@
 
 @media (max-width:500px){
 .logo{
-      width: 140px;
+      width: 40px;
     }
     .navbar-right{
         gap: 20px;
